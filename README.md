@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey👋there, I'm Dasun Shanaka
  🔭I’m currently working on Object Oriented Programming<br>🌍  I'm based in Colombo, SriLanka<br>✉️  You can contact me at dasunshanaka2002@gmail.com<br>⚡ Fun fact I enjoy tinkering with the Linux Kernel and diving deep into its inner workings!
 
 
