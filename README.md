@@ -14,7 +14,6 @@
 🎓 **Education & Experience**<br>
 - 🎓 Currently pursuing a degree in **Software Engineering** with a focus on **programming** and **software development**
 - 💼 Built a **job portal website** during my academic projects, which is available on my GitHub
-- 
 
 Let's connect and collaborate on exciting projects!
 <br><br>
