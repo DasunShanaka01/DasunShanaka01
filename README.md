@@ -28,11 +28,6 @@ Let's connect and collaborate on exciting projects!
 
 <br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DasunShanaka01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DasunShanaka01&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DasunShanaka01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 **You can only win when your mind is stronger than your emotions**
 
