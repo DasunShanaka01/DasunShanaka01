@@ -8,7 +8,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<pre>
 
  🔭 I’m currently working on Object-Oriented Programming<br>
  🌍 I'm based in Colombo, Sri Lanka<br>
@@ -24,7 +23,6 @@
 - 🎓 Currently pursuing a degree in **Software Engineering** with a focus on **programming** and **software development**
 - 💼 Built a **job portal website** during my academic projects, which is available on my GitHub
 
-</pre>
 Let's connect and collaborate on exciting projects!
 <br><br>
 
