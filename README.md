@@ -11,7 +11,7 @@
 
  🔭 I’m currently working on Object-Oriented Programming<br>
  🌍 I'm based in Colombo, Sri Lanka<br>
- ✉️ You can contact me at <a href="mailto:dasunshanaka2002@gmail.com">dasunshanaka2002@gmail.com</a><br>
+ ✉️ You can contact me at <a href="mailto:dasunshanaka2002@gmail.com">dasunshanaka.dev@gmail.com</a><br>
  ⚡ Fun fact: I enjoy tinkering with the Linux Kernel and diving deep into its inner workings!<br><br>
 
 🚀 **Skills & Interests**<br>
